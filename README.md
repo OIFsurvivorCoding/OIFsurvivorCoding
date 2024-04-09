@@ -5,14 +5,14 @@ This is the personal Git for the coder working under the pseudonym OIFsurvivor.
 
 <dl>                                                                        
   <dt>Known Languages:</dt>                                      
-  <dd>C++</dd>                                       
-  <dd>C# / .NET</dd>               
-  <dd>JavaScript</dd>                            
-  <dd>PHP</dd>                        
-  <dd>Python</dd>                                                       
-  <dd>HTML5</dd>                
-  <dd>SQL/ MySQL</dd>           
-  <dd>Visual Basic</dd>         
+  <dd>• C++</dd>                                       
+  <dd>• C# / .NET</dd>               
+  <dd>• JavaScript</dd>                            
+  <dd>• PHP</dd>                        
+  <dd>• Python</dd>                                                       
+  <dd>• HTML5</dd>                
+  <dd>• SQL/ MySQL</dd>           
+  <dd>• Visual Basic</dd>         
 </dl>    
 
 <dl>
