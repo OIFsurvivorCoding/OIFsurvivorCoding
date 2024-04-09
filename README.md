@@ -16,7 +16,7 @@ This is the personal Git for the coder working under the pseudonym OIFsurvivor.
 </dl>    
 
 <dl>
-  <dt>Skills</dt>
+  <dt>Skills:</dt>
   <dd>• Web Applications</dd>
   <dd>• Agile Development Methodologies</dd>  
   <dd>• Software Development</dd>
