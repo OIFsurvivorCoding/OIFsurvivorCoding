@@ -1,8 +1,8 @@
 # **OIFsurvivorCoding**
-
 This is the personal Git for the coder working under the pseudonym OIFsurvivor.
-
-
+#
+Potential employers may request access to private repositories through email listed in job application.
+#
 <dl>                                                                        
   <dt>Known Languages:</dt>                                      
   <dd>• C++</dd>                                       
